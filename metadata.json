@@ -1,0 +1,8 @@
+{
+  "name": "ViralTube AI - Android Video Optimizer",
+  "description": "An advanced AI-powered dashboard to analyze your YouTube content and generate viral titles, SEO-optimized descriptions, trending hashtags, and data-driven upload schedules specifically for the Android niche.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
